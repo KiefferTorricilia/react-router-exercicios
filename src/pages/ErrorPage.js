@@ -1,7 +1,7 @@
 function ErrorPage() {
   return (
     <section>
-      <h1>Página não encontrada</h1>
+      <h1>Página de Erro</h1>
     </section>
   );
 }
